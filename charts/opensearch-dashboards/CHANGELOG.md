@@ -13,6 +13,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 ---
+## [2.5.4]
+### Added
+- Added the ability to define plugins on node startup via plugins.enabled option for opensearch-dashboards chart.
+### Changed
+- Incremented the version to `2.5.4`.
+### Deprecated
+### Removed
+### Fixed
+### Security
+---
 ## [2.5.3]
 ### Added
 - Startup, readiness and liveness probes for deployment
