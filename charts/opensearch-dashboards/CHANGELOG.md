@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.5.4]
 ### Added
 - Added the ability to define plugins on node startup via plugins.enabled option for opensearch-dashboards chart.
+- Added the ability to define defaultMode for the opensearch_dashboards.yml file which is mounted as configMap
 ### Changed
 - Incremented the version to `2.5.4`.
 ### Deprecated
